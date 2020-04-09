@@ -1,171 +1,170 @@
 {
-    "categorias" :
-[
-    {
-        "categoria_padre": "",
-        "id": "1",
-        "nombre": "Valladolid",
-        "orden": "1",
-        "lugares": [
-            {
-                "categoria_id": "1",
-                "descripcion_corta": "descripcion corta",
-                "descripcion_larga": "descripcion corta",
-                "fecha": "31/03/2020",
-                "horario": "24 hrs.",
-                "id": "1",
-                "informacion_adicional": "",
-                "nombre": "Calzada de los Frailes",
-                "visible": "S",
-                "recursos": [
-                    {
-                        "contenido_id": "1",
-                        "descripcion": "descripcion",
-                        "id": "1",
-                        "nombre": "Calzada de los Frailes",
-                        "tipo": "1",
-                        "url": "calzada-1.jpg"
-                    }
-                ]
-            },
-            {
-                "categoria_id": "1",
-                "descripcion_corta": "descripcion corta",
-                "descripcion_larga": "descripcion larga",
-                "fecha": "31/03/2020",
-                "horario": "7:00 p.m.",
-                "id": "2",
-                "informacion_adicional": "",
-                "nombre": "Video Mapping",
-                "visible": "S",
-                "recursos": [
-                    {
-                        "contenido_id": "2",
-                        "descripcion": "descripcion",
-                        "id": "2",
-                        "nombre": "VideoMapping",
-                        "tipo": "2",
-                        "url": "url del video"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "categoria_padre": "",
-        "id": "2",
-        "nombre": "Iglesias",
-        "orden": "2",
-        "lugares": [
-            {
-                "categoria_id": "2",
-                "descripcion_corta": "descripcion corta",
-                "descripcion_larga": "descripcion larga",
-                "fecha": "31/03/2020",
-                "horario": "3:00 p.m.",
-                "id": "3",
-                "informacion_adicional": "",
-                "nombre": "San Bernardino de Siena",
-                "visible": "S",
-                "recursos": [
-                    {
-                        "contenido_id": "3",
-                        "descripcion": "descripcion",
-                        "id": "3",
-                        "nombre": "Interior de la Iglesia de San Bernardino de Siena",
-                        "tipo": "1",
-                        "url": "san-bernardino-2.jpg"
-                    },
-                    {
-                        "contenido_id": "3",
-                        "descripcion": "descripcion",
-                        "id": "4",
-                        "nombre": "Iglesia de San Bernardino de Siena",
-                        "tipo": "1",
-                        "url": "san-bernardino-1.jpg"
-                    }
-                ]
-            },
-            {
-                "categoria_id": "2",
-                "descripcion_corta": "descripcion corta",
-                "descripcion_larga": "descripcion larga",
-                "fecha": "31/03/2020",
-                "horario": "8;00 a.m. 8:00 p.m.",
-                "id": "4",
-                "informacion_adicional": "",
-                "nombre": "San Gervacio",
-                "visible": "S",
-                "recursos": [
-                    {
-                        "contenido_id": "4",
-                        "descripcion": "descripcion",
-                        "id": "5",
-                        "nombre": "Interior San Gervacio",
-                        "tipo": "1",
-                        "url": "san-gervacio-2.jpg"
-                    },
-                    {
-                        "contenido_id": "4",
-                        "descripcion": "descripcion",
-                        "id": "6",
-                        "nombre": "San Gervacio",
-                        "tipo": "1",
-                        "url": "san-gervacio-1.jpg"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "categoria_padre": "",
-        "id": "3",
-        "nombre": "Cenotes",
-        "orden": "3",
-        "lugares": [
-            {
-                "categoria_id": "3",
-                "descripcion_corta": "descripcion corta",
-                "descripcion_larga": "descripcion larga",
-                "fecha": "31/03/2020",
-                "horario": "10:00 a.m. 6:00 p.m.",
-                "id": "5",
-                "informacion_adicional": "",
-                "nombre": "Xkeken de Dzitnup",
-                "visible": "S",
-                "recursos": [
-                    {
-                        "contenido_id": "5",
-                        "descripcion": "descripcion",
-                        "id": "7",
-                        "nombre": "Cenote Xkenen",
-                        "tipo": "1",
-                        "url": "xkeken.jpg"
-                    }
-                ]
-            },
-            {
-                "categoria_id": "3",
-                "descripcion_corta": "descripcion corta",
-                "descripcion_larga": "descripcion larga",
-                "fecha": "31/03/2020",
-                "horario": "10:00 a.m. 6:00 p.m.",
-                "id": "6",
-                "informacion_adicional": "",
-                "nombre": "Zaci",
-                "visible": "S",
-                "recursos": [
-                    {
-                        "contenido_id": "6",
-                        "descripcion": "descripcion",
-                        "id": "8",
-                        "nombre": "Cenote Zaci",
-                        "tipo": "2",
-                        "url": "url del video"
-                    }
-                ]
-            }
-        ]
-    }
-]
+    "categorias": [
+        {
+            "categoria_padre": null,
+            "id": 1,
+            "nombre": "Valladolid",
+            "orden": 1,
+            "lugares": [
+                {
+                    "categoria_id": 1,
+                    "descripcion_corta": "descripcion corta",
+                    "descripcion_larga": "descripcion larga",
+                    "fecha": "31/03/2020",
+                    "horario": "24 hrs.",
+                    "id": 1,
+                    "informacion_adicional": "",
+                    "nombre": "Calzada de los Frailes",
+                    "visible": "S",
+                    "recursos": [
+                        {
+                            "contenido_id": 1,
+                            "descripcion": "descripcion",
+                            "id": 1,
+                            "nombre": "Calzada de los Frailes",
+                            "tipo": 1,
+                            "url": "calzada-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "categoria_id": 1,
+                    "descripcion_corta": "descripcion corta",
+                    "descripcion_larga": "descripcion larga",
+                    "fecha": "31/03/2020",
+                    "horario": "7:00 p.m.",
+                    "id": 2,
+                    "informacion_adicional": "",
+                    "nombre": "Video Mapping",
+                    "visible": "S",
+                    "recursos": [
+                        {
+                            "contenido_id": 2,
+                            "descripcion": "descripcion",
+                            "id": 2,
+                            "nombre": "VideoMapping",
+                            "tipo": 2,
+                            "url": "url del video"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria_padre": null,
+            "id": 2,
+            "nombre": "Iglesias",
+            "orden": 2,
+            "lugares": [
+                {
+                    "categoria_id": 2,
+                    "descripcion_corta": "descripcion corta",
+                    "descripcion_larga": "descripcion larga",
+                    "fecha": "31/03/2020",
+                    "horario": "3:00 p.m.",
+                    "id": 3,
+                    "informacion_adicional": "",
+                    "nombre": "San Bernardino de Siena",
+                    "visible": "S",
+                    "recursos": [
+                        {
+                            "contenido_id": 3,
+                            "descripcion": "descripcion",
+                            "id": 3,
+                            "nombre": "Interior de la Iglesia de San Bernardino de Siena",
+                            "tipo": 1,
+                            "url": "san-bernardino-2.jpg"
+                        },
+                        {
+                            "contenido_id": 3,
+                            "descripcion": "descripcion",
+                            "id": 4,
+                            "nombre": "Iglesia de San Bernardino de Siena",
+                            "tipo": 1,
+                            "url": "san-bernardino-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "categoria_id": 2,
+                    "descripcion_corta": "descripcion corta",
+                    "descripcion_larga": "descripcion larga",
+                    "fecha": "31/03/2020",
+                    "horario": "8;00 a.m. 8:00 p.m.",
+                    "id": 4,
+                    "informacion_adicional": "",
+                    "nombre": "San Gervacio",
+                    "visible": "S",
+                    "recursos": [
+                        {
+                            "contenido_id": 4,
+                            "descripcion": "descripcion",
+                            "id": 5,
+                            "nombre": "Interior San Gervacio",
+                            "tipo": 1,
+                            "url": "san-gervacio-2.jpg"
+                        },
+                        {
+                            "contenido_id": 4,
+                            "descripcion": "descripcion",
+                            "id": 6,
+                            "nombre": "San Gervacio",
+                            "tipo": 1,
+                            "url": "san-gervacio-1.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria_padre": "",
+            "id": 3,
+            "nombre": "Cenotes",
+            "orden": 3,
+            "lugares": [
+                {
+                    "categoria_id": 3,
+                    "descripcion_corta": "descripcion corta",
+                    "descripcion_larga": "descripcion larga",
+                    "fecha": "31/03/2020",
+                    "horario": "10:00 a.m. 6:00 p.m.",
+                    "id": 5,
+                    "informacion_adicional": "",
+                    "nombre": "Xkeken de Dzitnup",
+                    "visible": "S",
+                    "recursos": [
+                        {
+                            "contenido_id": 5,
+                            "descripcion": "descripcion",
+                            "id": 7,
+                            "nombre": "Cenote Xkenen",
+                            "tipo": 1,
+                            "url": "xkeken.jpg"
+                        }
+                    ]
+                },
+                {
+                    "categoria_id": 3,
+                    "descripcion_corta": "descripcion corta",
+                    "descripcion_larga": "descripcion larga",
+                    "fecha": "31/03/2020",
+                    "horario": "10:00 a.m. 6:00 p.m.",
+                    "id": 6,
+                    "informacion_adicional": "",
+                    "nombre": "Zaci",
+                    "visible": "S",
+                    "recursos": [
+                        {
+                            "contenido_id": 6,
+                            "descripcion": "descripcion",
+                            "id": 8,
+                            "nombre": "Cenote Zaci",
+                            "tipo": 2,
+                            "url": "url del video"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
