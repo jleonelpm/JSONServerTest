@@ -1,3 +1,5 @@
+{
+    "categorias" :
 [
     {
         "categoria_padre": "",
@@ -43,7 +45,7 @@
                         "id": "2",
                         "nombre": "VideoMapping",
                         "tipo": "2",
-                        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9xM4FLUJnnc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+                        "url": "url del video"
                     }
                 ]
             }
@@ -159,10 +161,11 @@
                         "id": "8",
                         "nombre": "Cenote Zaci",
                         "tipo": "2",
-                        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Zg0exPB2wE8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+                        "url": "url del video"
                     }
                 ]
             }
         ]
     }
 ]
+}
