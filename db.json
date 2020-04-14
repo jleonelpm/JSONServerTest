@@ -1,7 +1,7 @@
 {
     "categorias": [
         {
-            "categoria_padre": null,
+            "categoria_padre": 0
             "id": 1,
             "nombre": "Valladolid",
             "orden": 1,
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "categoria_padre": null,
+            "categoria_padre": 0,
             "id": 2,
             "nombre": "Iglesias",
             "orden": 2,
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "categoria_padre": "",
+            "categoria_padre": 0,
             "id": 3,
             "nombre": "Cenotes",
             "orden": 3,
