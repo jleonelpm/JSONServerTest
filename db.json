@@ -1,7 +1,7 @@
 {
     "categorias": [
         {
-            "categoria_padre": 0
+            "categoria_padre": 0,
             "id": 1,
             "nombre": "Valladolid",
             "orden": 1,
