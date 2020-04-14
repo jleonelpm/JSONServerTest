@@ -18,7 +18,7 @@
                     "visible": "S",
                     "recursos": [
                         {
-                            "contenido_id": 1,
+                            "lugares_id": 1,
                             "descripcion": "descripcion",
                             "id": 1,
                             "nombre": "Calzada de los Frailes",
@@ -39,7 +39,7 @@
                     "visible": "S",
                     "recursos": [
                         {
-                            "contenido_id": 2,
+                            "lugares_id": 2,
                             "descripcion": "descripcion",
                             "id": 2,
                             "nombre": "VideoMapping",
@@ -68,7 +68,7 @@
                     "visible": "S",
                     "recursos": [
                         {
-                            "contenido_id": 3,
+                            "lugares_id": 3,
                             "descripcion": "descripcion",
                             "id": 3,
                             "nombre": "Interior de la Iglesia de San Bernardino de Siena",
@@ -76,7 +76,7 @@
                             "url": "san-bernardino-2.jpg"
                         },
                         {
-                            "contenido_id": 3,
+                            "lugares_id": 3,
                             "descripcion": "descripcion",
                             "id": 4,
                             "nombre": "Iglesia de San Bernardino de Siena",
@@ -97,7 +97,7 @@
                     "visible": "S",
                     "recursos": [
                         {
-                            "contenido_id": 4,
+                            "lugares_id": 4,
                             "descripcion": "descripcion",
                             "id": 5,
                             "nombre": "Interior San Gervacio",
@@ -105,7 +105,7 @@
                             "url": "san-gervacio-2.jpg"
                         },
                         {
-                            "contenido_id": 4,
+                            "lugares_id": 4,
                             "descripcion": "descripcion",
                             "id": 6,
                             "nombre": "San Gervacio",
@@ -134,7 +134,7 @@
                     "visible": "S",
                     "recursos": [
                         {
-                            "contenido_id": 5,
+                            "lugares_id": 5,
                             "descripcion": "descripcion",
                             "id": 7,
                             "nombre": "Cenote Xkenen",
@@ -155,7 +155,7 @@
                     "visible": "S",
                     "recursos": [
                         {
-                            "contenido_id": 6,
+                            "lugares_id": 6,
                             "descripcion": "descripcion",
                             "id": 8,
                             "nombre": "Cenote Zaci",
