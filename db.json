@@ -5,6 +5,8 @@
             "id": 1,
             "nombre": "Valladolid",
             "orden": 1,
+            "descripcion": "Valladolid 2",
+            "imagen": "imagen.jpg",
             "lugares": [
                 {
                     "categoria_id": 1,
