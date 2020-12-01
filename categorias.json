@@ -1,0 +1,23 @@
+{
+	"categorias": [{
+			"categoria_padre": 0,
+			"id": 1,
+			"nombre": "Valladolid",
+			"orden": 1,
+			"descripcion": "Valladolid 2",
+			"imagen": "imagen.jpg"
+		},
+		{
+			"categoria_padre": 0,
+			"id": 2,
+			"nombre": "Iglesias",
+			"orden": 2
+		},
+		{
+			"categoria_padre": 0,
+			"id": 3,
+			"nombre": "Cenotes",
+			"orden": 3
+		}
+	]
+}
