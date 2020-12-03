@@ -1,0 +1,29 @@
+{
+    "categoria_id": 2,
+    "descripcion_corta": "descripcion corta",
+    "descripcion_larga": "descripcion larga",
+    "horario_inicio": "3:00 p.m.",
+    "horario_fin": "3:00 p.m.",
+    "id": 3,
+    "informacion_adicional": "lorem ipsum",
+    "nombre": "San Bernardino de Siena",
+    "ubicacion": "conocido",
+    "ubicacion_gps": "14567895",
+    "recursos": [{
+            "lugares_id": 3,
+            "descripcion": "descripcion",
+            "id": 3,
+            "nombre": "Interior de la Iglesia de San Bernardino de Siena",
+            "tipo": 1,
+            "url": "san-bernardino-2.jpg"
+        },
+        {
+            "lugares_id": 3,
+            "descripcion": "descripcion",
+            "id": 4,
+            "nombre": "Iglesia de San Bernardino de Siena",
+            "tipo": 2,
+            "url": "url youtube"
+        }
+    ]
+}

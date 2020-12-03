@@ -1,0 +1,25 @@
+{
+	"lugares": [{
+			"categoria_id": 3,
+			"descripcion_corta": "descripcion corta",
+			"id": 5,
+			"nombre": "Xkeken de Dzitnup",
+			"recursos": {
+				"lugares_id": 5,
+				"id": 7,
+				"url": "xkeken.jpg"
+			}
+		},
+		{
+			"categoria_id": 3,
+			"descripcion_corta": "descripcion corta",
+			"id": 6,
+			"nombre": "Zaci",
+			"recursos": {
+				"lugares_id": 6,
+				"id": 8,
+				"url": "imagen.jpg"
+			}
+		}
+	]
+}
