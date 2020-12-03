@@ -11,13 +11,17 @@
 			"categoria_padre": 0,
 			"id": 2,
 			"nombre": "Iglesias",
-			"orden": 2
+			"orden": 2,
+			"descripcion": "Iglesias",
+			"imagen": "imagen.jpg"			
 		},
 		{
 			"categoria_padre": 0,
 			"id": 3,
 			"nombre": "Cenotes",
-			"orden": 3
+			"orden": 3,
+			"descripcion": "Cenotes",
+			"imagen": "imagen.jpg"			
 		}
 	]
 }
