@@ -1,24 +1,134 @@
 {
 	"lugares": [{
-			"categoria_id": 3,
-			"descripcion_corta": "descripcion corta",
-			"id": 5,
-			"nombre": "Xkeken de Dzitnup",
+			"id": 1,
+			"nombre": "Casa de los Venados",
+			"descripcion_corta": "Uno de los museos más cool y más extravagantes",
+			"categoria_id": 1,
 			"recursos": {
-				"lugares_id": 5,
-				"id": 7,
-				"url": "xkeken.jpg"
+				"lugares_id": 1,
+				"id": 1,
+				"url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg"
 			}
 		},
 		{
+			"id": 2,
+			"nombre": "San Roque",
+			"descripcion_corta": "La parte más interesante son los enormes murales que representan la historia maya",
+			"categoria_id": 1,
+			"recursos": {
+				"lugares_id": 2,
+				"id": 2,
+				"url": "https://valladolidmx.travel/wp-content/uploads/2019/11/fotos12-2.jpg"
+			}
+		},
+		{
+			"id": 3,
+			"nombre": "Catedral de San Servacio",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 2,
+			"recursos": {
+				"lugares_id": 3,
+				"id": 3,
+				"url": "https://s3-media4.fl.yelpcdn.com/bphoto/htBpICqC2d8mXNzpuaQX7Q/o.jpg"
+			}
+		},
+		{
+			"id": 4,
+			"nombre": "La Candelaria",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 2,
+			"recursos": {
+				"lugares_id": 4,
+				"id": 4,
+				"url": "https://thesimplytravelblog.files.wordpress.com/2015/07/7051.jpg"
+			}
+		},
+		{
+			"id": 5,
+			"nombre": "Zací",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
 			"categoria_id": 3,
-			"descripcion_corta": "descripcion corta",
+			"recursos": {
+				"lugares_id": 5,
+				"id": 5,
+				"url": "http://blog.valladolid.mx/wp-content/uploads/2015/09/6763777453_64bc744c4d_b-1024x685.jpg"
+			}
+		},
+		{
 			"id": 6,
-			"nombre": "Zaci",
+			"nombre": "Xkeken",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 3,
 			"recursos": {
 				"lugares_id": 6,
+				"id": 6,
+				"url": "http://blog.valladolid.mx/wp-content/uploads/2015/09/4229747594_19d37626cb_b-2-1024x683.jpg"
+			}
+		},
+		{
+			"id": 7,
+			"nombre": "Popola",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 4,
+			"recursos": {
+				"lugares_id": 7,
+				"id": 7,
+				"url": "https://2.bp.blogspot.com/-Siv4JpQQsdk/UKR9d8dZGzI/AAAAAAAABSg/OK56zLBE5eE/s1600/comisaria+2copia.jpg"
+			}
+		},
+		{
+			"id": 8,
+			"nombre": "Ticuch",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 4,
+			"recursos": {
+				"lugares_id": 8,
 				"id": 8,
-				"url": "imagen.jpg"
+				"url": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://valladolidmagico.com/wp-content/uploads/2020/09/IMG-20200902-WA0021-1024x768.jpg"
+			}
+		},
+		{
+			"id": 9,
+			"nombre": "Centro",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 5,
+			"recursos": {
+				"lugares_id": 9,
+				"id": 9,
+				"url": "https://propiedadescom.s3.amazonaws.com/files/600x400/valladolid-centro-valladolid-yucatan-5909642-foto-01.jpg"
+			}
+		},
+		{
+			"id": 10,
+			"nombre": "Calzada de los frailes",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 5,
+			"recursos": {
+				"lugares_id": 10,
+				"id": 10,
+				"url": "https://www.goapp.mx/files/articulos/big/que-hacer-la-calzada-de-los-frailes-1223-0.jpg"
+			}
+		},
+		{
+			"id": 11,
+			"nombre": "Francisco Cantón Rosado",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 6,
+			"recursos": {
+				"lugares_id": 11,
+				"id": 11,
+				"url": "https://www.contemporarynomad.com/wp-content/uploads/2014/02/valladolid-1.jpg"
+			}
+		},
+		{
+			"id": 12,
+			"nombre": "San Juan",
+			"descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+			"categoria_id": 6,
+			"recursos": {
+				"lugares_id": 12,
+				"id": 12,
+				"url": "https://valladolidmx.travel/wp-content/uploads/2019/09/IMG_9766_1.jpg"
 			}
 		}
 	]

@@ -1,29 +1,170 @@
 {
-    "categoria_id": 2,
-    "descripcion_corta": "descripcion corta",
-    "descripcion_larga": "descripcion larga",
-    "horario_inicio": "3:00 p.m.",
-    "horario_fin": "3:00 p.m.",
-    "id": 3,
-    "informacion_adicional": "lorem ipsum",
-    "nombre": "San Bernardino de Siena",
-    "ubicacion": "conocido",
-    "ubicacion_gps": "14567895",
-    "recursos": [{
-            "lugares_id": 3,
-            "descripcion": "descripcion",
-            "id": 3,
-            "nombre": "Interior de la Iglesia de San Bernardino de Siena",
+    "detalles": [{
+        "id": 1,
+        "nombre": "Casa de los venados",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895",
+        "lugares_id": 1,
+        "recursos": [{
+            "lugares_id": 1,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 1,
+            "nombre": "Interior del museo de Casa de los venados",
             "tipo": 1,
-            "url": "san-bernardino-2.jpg"
-        },
-        {
-            "lugares_id": 3,
-            "descripcion": "descripcion",
-            "id": 4,
-            "nombre": "Iglesia de San Bernardino de Siena",
+            "url": "imagen.jpg"
+            },
+            {
+            "lugares_id": 1,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 2,
+            "nombre": "Interior del museo de Casa de los venados",
             "tipo": 2,
             "url": "url youtube"
-        }
-    ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Catedral de San Servacio",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895",
+        "lugares_id": 2,
+        "recursos": [{
+            "lugares_id": 2,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 1,
+            "nombre": "Interior de la Catedral de San Servacio",
+            "tipo": 1,
+            "url": "imagen.jpg"
+            },
+            {
+            "lugares_id": 2,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 1,
+            "nombre": "Interior de la Catedral de San Servacio",
+            "tipo": 2,
+            "url": "url youtube"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Zací",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895",
+        "lugares_id": 3,
+        "recursos": [{
+            "lugares_id": 3,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 1,
+            "nombre": "Interior de Zací",
+            "tipo": 1,
+            "url": "imagen.jpg"
+            },
+            {
+            "lugares_id": 3,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 2,
+            "nombre": "Interior de Zací",
+            "tipo": 2,
+            "url": "url youtube"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Popola",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895",
+        "lugares_id": 4,
+        "recursos": [{
+            "lugares_id": 4,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 1,
+            "nombre": "Interior de Popola",
+            "tipo": 1,
+            "url": "imagen.jpg"
+            },
+            {
+            "lugares_id": 4,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 2,
+            "nombre": "Interior de Popola",
+            "tipo": 2,
+            "url": "url youtube"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Centro",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895",
+        "lugares_id": 5,
+        "recursos": [{
+            "lugares_id": 5,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 1,
+            "nombre": "Interior de Centro",
+            "tipo": 1,
+            "url": "imagen.jpg"
+            },
+            {
+            "lugares_id": 5,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 2,
+            "nombre": "Interior de Centro",
+            "tipo": 2,
+            "url": "url youtube"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Francisco Cantón Rosado",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895",
+        "lugares_id": 6,
+        "recursos": [{
+            "lugares_id": 6,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 1,
+            "nombre": "Interior de Francisco Cantón Rosado",
+            "tipo": 1,
+            "url": "imagen.jpg"
+            },
+            {
+            "lugares_id": 6,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "id": 2,
+            "nombre": "Francisco Cantón Rosado",
+            "tipo": 2,
+            "url": "url youtube"
+            }
+        ]
+    }]    
 }
